@@ -1,0 +1,3 @@
+([('AutoClicker',
+   '/Users/aminmammadov/Giti/QuCkliker/dist/AutoClicker',
+   'EXECUTABLE')],)
